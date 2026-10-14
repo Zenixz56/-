@@ -36,7 +36,7 @@ void RemoveProduct(int quantity, int total, int MaxItem, int Category, int Trash
 		if (TrashCategory == 1)
 		{
 			std::cout << "Напишите количество литров яблочного сока которого вы хотите удалить\n";
-			std::cin >> 
+			
 		}
 	}
 }
